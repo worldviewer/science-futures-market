@@ -4,33 +4,33 @@ A system for evaluating specialist expertise through the tracking of scientific 
 
 ## Defining the Problem
 
-<a href="https://plus.google.com/+ChrisReeveOnlineScientificDiscourseIsBroken/posts/im3GayFgEGr">
-    <p align="center">
+<p align="center">
         <img src="https://github.com/worldviewer/science-futures-market/blob/master/the-science-futures-market-bbal-card.jpg" />
-    </p>
-</a>
+</p>
+
+See a <a href="https://plus.google.com/+ChrisReeveOnlineScientificDiscourseIsBroken/posts/im3GayFgEGr">detailed explanation here.</a>
 
 <p align="center">
-    <a href="https://plus.google.com/+ChrisReeveOnlineScientificDiscourseIsBroken/posts/7UACtWwASmz">
-        <img src="https://github.com/worldviewer/science-futures-market/blob/master/the-debate-over-the-science-futures-market-bbal-card.jpg" />
-    </a>
+    <img src="https://github.com/worldviewer/science-futures-market/blob/master/the-debate-over-the-science-futures-market-bbal-card.jpg" />
 </p>
+
+See a <a href="https://plus.google.com/+ChrisReeveOnlineScientificDiscourseIsBroken/posts/7UACtWwASmz">detailed explanation here.</a>
 
 ## The Information Market
 
 An information market is a place where people can place wagers on future events.  The approach has sometimes proven accurate in predicting the results of presidential elections.
 
 <p align="center">
-    <a href="http://tippie.biz.uiowa.edu/iem/">
-        <img src="https://github.com/worldviewer/science-futures-market/blob/master/election-futures-market.gif" />
-    </a>
+    <img src="https://github.com/worldviewer/science-futures-market/blob/master/election-futures-market.gif" />
 </p>
 
+For more information, see <a href="http://tippie.biz.uiowa.edu/iem/">this</a>.
+
 <p align="center">
-    <a href="https://www.aei.org/publication/place-bets-political-junkies-follow-prediction-markets/">
-        <img src="https://github.com/worldviewer/science-futures-market/blob/master/2016-US-presidential-election-betting-odds.jpg" />
-    </a>
+    <img src="https://github.com/worldviewer/science-futures-market/blob/master/2016-US-presidential-election-betting-odds.jpg" />
 </p>
+
+For more information, see <a href="https://www.aei.org/publication/place-bets-political-junkies-follow-prediction-markets/">this</a>.
 
 ## ... But as a Reality Check for Ideology in the Sciences
 
