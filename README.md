@@ -34,18 +34,26 @@ Many thousands of people do this online today because there's essentially no cos
 
 ... and by cost, I don't just mean that Internet access is ridiculously cheap; I also mean that there's just no penalty for being wrong.
 
-This creates an amazing amount of noise insofar as the loudest voices are not necessarily the best representatives.  The savvy information consumer is still tasked with identifying the best arguments for a particular claim.  This process can be extremely time-consuming, and most people give up at the first rebuttal to an extraordinary idea -- as if the argument always stops just a level deep.
+This creates an amazing amount of noise insofar as the loudest voices are not necessarily accurate; they're there to teach you about their worldview -- not to accurately predict the future.
+
+The savvy information consumer must sort through all of that noise for the best arguments for a particular claim, with few recourses to differentiate ideology from accurate prediction.
+
+This process can be extremely time-consuming, and most people give up at the first rebuttal to an extraordinary idea -- as if the argument always stops just a single level deep.
 
 It sometimes seems online that the science comments box is all ugly babies ...
 
 Everybody's got a pet theory, and nobody knows how to make any sense of it without quitting their day job.
 
-A science futures market can fix these problems.
+The ones that don't even have that are mindlessly defending modern science, going on and on about scientific method and peer review.
+
+A science futures market can cut to the chase.  It can become a place where people put-up or shut-up.
 
 And I believe that the first version -- with which the kinks will be ironed out -- should be used to evaluate specialist expertise on a social network dedicated to scientific controversies.
 
+The unintended benefit of setting this system up to identify the true experts would be that it would -- more importantly -- reveal the few generalists, the unicorns of scientific thought.
+
 ## Welcome to the Science Futures API
 
-This repo will house an API gateway to that system.
+This repo is a placeholder for the API gateway to this science futures market.
 
-(Please note that this is not the only system for scientific prediction that we can construct; there will also be a user bio questionnaire which will act as a system to track changes in worldviews.)
+(Please note that this is not the only system for scientific prediction that can be constructed; there are also plans to create a user bio questionnaire which will dual as a system to track changes in worldviews over time.)
