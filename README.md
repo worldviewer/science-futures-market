@@ -5,11 +5,15 @@ A system for evaluating specialist expertise through the tracking of scientific 
 ## Defining the Problem
 
 <p align="center">
-    <img src="https://github.com/worldviewer/science-futures-market/blob/master/the-science-futures-market-bbal-card.jpg" />
+    <a href="https://plus.google.com/+ChrisReeveOnlineScientificDiscourseIsBroken/posts/im3GayFgEGr">
+        <img src="https://github.com/worldviewer/science-futures-market/blob/master/the-science-futures-market-bbal-card.jpg" />
+    </a>
 </p>
 
 <p align="center">
-    <img src="https://github.com/worldviewer/science-futures-market/blob/master/the-debate-over-the-science-futures-market-bbal-card.jpg" />
+    <a href="https://plus.google.com/+ChrisReeveOnlineScientificDiscourseIsBroken/posts/7UACtWwASmz">
+        <img src="https://github.com/worldviewer/science-futures-market/blob/master/the-debate-over-the-science-futures-market-bbal-card.jpg" />
+    </a>
 </p>
 
 ## The Information Market
@@ -17,11 +21,15 @@ A system for evaluating specialist expertise through the tracking of scientific 
 An information market is a place where people can place wagers on future events.  The approach has sometimes proven accurate in predicting the results of presidential elections.
 
 <p align="center">
-    <img src="https://github.com/worldviewer/science-futures-market/blob/master/election-futures-market.gif" />
+    <a href="http://tippie.biz.uiowa.edu/iem/">
+        <img src="https://github.com/worldviewer/science-futures-market/blob/master/election-futures-market.gif" />
+    </a>
 </p>
 
 <p align="center">
-    <img src="https://github.com/worldviewer/science-futures-market/blob/master/2016-US-presidential-election-betting-odds.jpg" />
+    <a href="https://www.aei.org/publication/place-bets-political-junkies-follow-prediction-markets/">
+        <img src="https://github.com/worldviewer/science-futures-market/blob/master/2016-US-presidential-election-betting-odds.jpg" />
+    </a>
 </p>
 
 ## ... But as a Reality Check for Ideology in the Sciences
