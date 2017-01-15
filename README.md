@@ -4,11 +4,11 @@ A system for evaluating specialist expertise through the tracking of scientific 
 
 ## Defining the Problem
 
-<p align="center">
-    <a href="https://plus.google.com/+ChrisReeveOnlineScientificDiscourseIsBroken/posts/im3GayFgEGr">
+<a href="https://plus.google.com/+ChrisReeveOnlineScientificDiscourseIsBroken/posts/im3GayFgEGr">
+    <p align="center">
         <img src="https://github.com/worldviewer/science-futures-market/blob/master/the-science-futures-market-bbal-card.jpg" />
-    </a>
-</p>
+    </p>
+</a>
 
 <p align="center">
     <a href="https://plus.google.com/+ChrisReeveOnlineScientificDiscourseIsBroken/posts/7UACtWwASmz">
